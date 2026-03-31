@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pkl
+*.h5
+*.csv
+*.tflite
+*.png
+*.keras
+*.json
+*.npy
+*.pt
+*.joblib
+*.xlsx

@@ -1,0 +1,77 @@
+Total fault classes: 75
+==================================================
+    0  →  abs sensor wire fault
+    1  →  alternator damage
+    2  →  alternator wiring failure
+    3  →  axle shaft foult
+    4  →  battery cables and terminals
+    5  →  battery foult
+    6  →  bearing failure fault
+    7  →  bearing overheating fault
+    8  →  bearing wear fault
+    9  →  bent bracket fault
+   10  →  blown fuse
+   11  →  bolt failure fault
+   12  →  broken ground cable
+   13  →  broken nut fault
+   14  →  broken snap ring fault
+   15  →  broken stud fault
+   16  →  broken wire
+   17  →  clutch damage
+   18  →  contaminated pads fault
+   19  →  coolant damage
+   20  →  cooling fan foult
+   21  →  corroded connector
+   22  →  corrosion fault
+   23  →  damaged insulation
+   24  →  deformation fault
+   25  →  differential damage
+   26  →  dirty sensor fault
+   27  →  disconnected wire
+   28  →  drive belt system damaged
+   29  →  drum crack fault
+   30  →  drum overheating fault
+   31  →  faulty relay wiring
+   32  →  fluid leak fault
+   33  →  fly wheel
+   34  →  fuses and fusible links
+   35  →  glazed pads fault
+   36  →  hoses and pipes
+   37  →  hub misalignment fault
+   38  →  ignition coil wire loose
+   39  →  ignition switch
+   40  →  loose connection fault
+   41  →  loose connector
+   42  →  loose ground cable
+   43  →  loose mounting bolts fault
+   44  →  melted wire insulation
+   45  →  misalignment fault
+   46  →  neutral safety switch
+   47  →  propeller shaft damage
+   48  →  radiator cap foult
+   49  →  radiator foult
+   50  →  rodent-chewed wire
+   51  →  rust damage fault
+   52  →  rust fault
+   53  →  seal leakage fault
+   54  →  sensor damag fault
+   55  →  sensor failure fault
+   56  →  sensor wire damaged
+   57  →  sensor wire disconnected
+   58  →  short circuit fault
+   59  →  spark plug wire broken
+   60  →  starter motor foult
+   61  →  starter motor wire loose
+   62  →  starter relay
+   63  →  starter solenoid
+   64  →  thermostat foult
+   65  →  transfer case foult
+   66  →  transmission unit foult
+   67  →  uneven wear fault
+   68  →  voltage regulator issue
+   69  →  water pump foult
+   70  →  weak battery connection
+   71  →  wire shorted to power line
+   72  →  wire touching chassis
+   73  →  wiring foult in charging system
+   74  →  worn pads fault
